@@ -2,8 +2,8 @@
 //  ArFaceTrakingUITests.swift
 //  ArFaceTrakingUITests
 //
-//  Created by Viviana Parolisi on 29/03/2019.
-//  Copyright © 2019 Viviana Parolisi. All rights reserved.
+//  Created by Cavalli Claudio on 29/03/2019.
+//  Copyright © 2019 Cavalli Claudio. All rights reserved.
 //
 
 import XCTest
